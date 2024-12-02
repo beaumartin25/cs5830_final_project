@@ -8,3 +8,6 @@
 - `hurricane.csv` [website link](https://www.kaggle.com/datasets/utkarshx27/noaa-atlantic-hurricane-database/data) (still pulled from a NOAA dataset)
 - `1950-2023_actual_tornadoes` [website link](https://www.spc.noaa.gov/wcm/)
 - `eqint_tsqp.csv` [website link](https://www.ngdc.noaa.gov/hazard/eq-intensity.shtml)
+
+
+## Plan
